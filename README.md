@@ -37,6 +37,8 @@ Show us your abilities and make yourself worth the amount of money you'd like to
 - Clean your data
 - Take a look and find connections between data
 
+<i> Note: Above you have your data set in a folder but for further reference here is the data set source: https://www.kaggle.com/datasets/anderas/car-consume <i/>
+
 #### Visualization
 
 - Plot your data in a meaningful way
