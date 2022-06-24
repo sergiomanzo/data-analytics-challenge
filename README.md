@@ -1,8 +1,13 @@
+⚠️ Edit: This repository has been moved [this new link](https://github.com/ironhack-edu/technical_challenge_DA). New submissions should be done there.
+
+
+
 # Tech challenge
 
 <p align="center"> 
 <img src="https://kamisetas.com/image/bordados/Cobi-Barcelona-92-parche.gif" alt="drawing" width="200"/>
 </p>
+
 
 Cobify is a company dedicated to people transport just like Uber, Lyft or even Cabify (who clearly stole our name).
 
@@ -37,7 +42,7 @@ Show us your abilities and make yourself worth the amount of money you'd like to
 - Clean your data
 - Take a look and find connections between data
 
-<i> Note: Above you have your data set in a folder but for further reference here is the data set source: https://www.kaggle.com/datasets/anderas/car-consume <i/>
+Note: Above you have your data set in a folder but for further reference here is the data set source: https://www.kaggle.com/datasets/anderas/car-consume
 
 #### Visualization
 
@@ -91,3 +96,6 @@ You can grab ideas from our instructors or create something with [streamlit](htt
 Go bezerk if you want to get this job, you will set the limits!
 
 _PD: even though this has an informal tone, this challenge is serious and very similar to those you will encounter in real life._
+    
+
+Originally from [@VictorRodriguezIronhack](https://github.com/VictorRodriguezIronhack)
